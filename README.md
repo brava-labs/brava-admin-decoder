@@ -19,6 +19,18 @@ This tool helps developers and users decode the raw transaction data from AdminV
 - 💻 Responsive design
 - ⚡ Built with Turbopack for fast development
 
+## IPFS Deployment
+
+This application is deployed on IPFS for transparency and immutability. You can access it through:
+
+- Cloudflare IPFS Gateway: `https://{your-gateway}.ipfs.dweb.link`
+- IPFS Hash (CID): `{your-CID}`
+
+To verify the deployment:
+1. You can access the app through any IPFS gateway by using the CID
+2. You can download the IPFS content and compare it with the GitHub repository
+3. You can run the app locally and compare the built output with the IPFS content
+
 ## Tech Stack
 
 - Next.js 15.0
